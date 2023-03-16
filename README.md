@@ -8,7 +8,8 @@ How to use :
 0. PyTorch & Have a decent GPU
 1. Follow installation of dependencies for tortoise and openai on pip (Tip: use conda environment)
 2. Attach your openai api key on client side or in env
-3. python curbyourai.py => enter any topic you'd like
+3. Make a scripts folder in the directory
+4. python curbyourai.py => enter any topic you'd like
 
 ## To collab
 Please fork and follow general PR rules.
